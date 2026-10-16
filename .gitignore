@@ -1,0 +1,14 @@
+# Окружение и IDE
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Кэш Python и pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Отчёты и прочее
+allure-results/
+.DS_Store
